@@ -8,7 +8,7 @@ SmartDrive est une application web interactive développée dans le cadre d'un p
 
 ## 📸 Aperçu
 
-![Aperçu SmartDrive](https://lucas-godebout.mds-angers.yt/SmartDrive/assets/img/smartdrive-preview.jpg) <!-- Remplace par un vrai chemin si disponible -->
+![Aperçu SmartDrive](Images/smartdrive.png)
 
 ## 🧠 Objectifs pédagogiques
 
