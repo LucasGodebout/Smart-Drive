@@ -30,4 +30,4 @@ SmartDrive est une application web interactive développée dans le cadre d'un p
 
 ## 📆 Contexte
 
-Ce projet a été réalisé dans le cadre d’un module de développement web à l'école [MyDigitalSchool Angers](https://www.mydigitalschool.com/ecole-web/angers). L'objectif était de concevoir une entreprise du début jusqu'à la fin dans le thème de la mobilité et du transport.
+Ce projet a été réalisé dans le cadre d’un module de développement web à l'école [MyDigitalSchool Angers](https://www.mydigitalschool.com/ecole-multimedia-angers). L'objectif était de concevoir une entreprise du début jusqu'à la fin dans le thème de la mobilité et du transport.
