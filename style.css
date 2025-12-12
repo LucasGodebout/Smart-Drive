@@ -194,7 +194,7 @@ main h1{
     margin: 0;
 }#card a:hover{
     background-color: #A31B1E;
-    border: #A31B1E;
+    border: #A31B1E 1px solid;
 }
 #slider-container{
     margin: 0 0 10vw 10vw;
